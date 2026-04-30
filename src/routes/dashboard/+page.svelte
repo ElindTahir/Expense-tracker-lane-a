@@ -11,7 +11,7 @@
   <section class="dashboard-header">
     <div>
       <p class="eyebrow">Protected dashboard</p>
-      <h1>Your expenses TEEEEST2</h1>
+      <h1>Your expenses</h1>
       <p>
         Server-rendered overview loaded from Supabase before the page reaches
         the browser.
